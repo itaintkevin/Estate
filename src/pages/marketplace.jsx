@@ -1,5 +1,4 @@
 import property1 from './property1.jpg';
-import property2 from './property2.jpg';
 import bed from './bed.svg';
 import bathtub from './bathtub.svg';
 import room from './room.svg';
