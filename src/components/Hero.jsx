@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom';
 import land from './land.png';
-import background from './background.svg';
 
 const Hero = () => {
     return(
