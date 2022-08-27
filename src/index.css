@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.btn {
+    background: #abbaab;  
+    background: -webkit-linear-gradient(to right, #ffffff, #abbaab); 
+    background: linear-gradient(to right, #ffffff, #abbaab); 
+}
