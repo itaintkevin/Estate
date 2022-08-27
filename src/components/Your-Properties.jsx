@@ -46,6 +46,7 @@ const Buy = () => {
                             </>
                         );
                     }
+                    return null;
                 })}      
             </div>
         </div>
