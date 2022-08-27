@@ -13,7 +13,7 @@ const Marketplace = () => {
     return(
         <div className="flex flex-col justify-center items-center h-full">
             <div className="text-3xl text-white font-semibold w-full px-64 my-8">Listed Properties</div>
-            <div className='flex justify-center items-center flex-wrap rounded '>
+            <div className='flex justify-center items-center flex-wrap rounded w-5/6'>
                 {Info.map((info) => {
                     return(
                         <>
