@@ -3,7 +3,7 @@ import land from './land.png';
 
 const Hero = () => {
     return(
-        <div className="flex justify-center items-center px-64 h-screen overflow-hidden bg-cover bg-[url('components/background.svg')]">
+        <div className="flex justify-center items-center px-64 h-screen overflow-hidden">
             <div className="flex flex-col justify-center items-start w-1/2 pl-8 ">
                 <div className="text-white text-left text-9xl my-10">&#400;state</div>
                 <div className="text-white text-3xl mb-10">Your one stop solution to Buy & Sell Real Estate NFTs.</div>

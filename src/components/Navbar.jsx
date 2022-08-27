@@ -10,7 +10,7 @@ const Navbar = () => {
 
     return(
         <nav>
-            <div className="absolute flex justify-between items-center text-white font-medium font-sans px-64 py-10 w-screen">
+            <div className="flex justify-between items-center text-white font-medium font-sans px-64 py-10 w-screen">
                 <Link className='flex text-3xl list-none' to="/">
                     <li><img className="h-10 w-10" src={logo} alt="logo"/></li>
                     <li className="mx-4">&#400;state</li>

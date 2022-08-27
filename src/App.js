@@ -8,7 +8,7 @@ import Sell from "./pages/sell-a-property.jsx";
 
 function App() {
   return (
-    <div>
+    <div className="bg-cover bg-[url('components/background.svg')]">
     <Navbar />
     <Routes>
     <Route path="/" element={<Hero />} />
