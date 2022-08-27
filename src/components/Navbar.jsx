@@ -23,6 +23,7 @@ const Navbar = () => {
                         <Link to="/buy-a-property">BUY PROPERTY</Link>
                     </div>
                     <div className="pointer-events-auto flex items-center mx-2 text-white text-md font-semibold px-2 py-2" >
+                        <Link to="/sell-a-property">SELL PROPERTY</Link>
                     </div>
                 </div>
                 <ul className=" btn mx-2 text-black bg-white border border-white drop-shadow-2xl rounded-full text-md font-semibold px-2 flex items-center" >
